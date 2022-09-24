@@ -17,6 +17,9 @@
  ### Expected Resources
   - Some form of web server
  ### Potential Challenges
+  - Creating the link to redirect to the group of links
+  - Having one link seamlessly open multiple links
+  - Having users without the extension able to open the shortened group link
  
  ### Segmentation of Work
 
